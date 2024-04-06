@@ -1,0 +1,12 @@
+{
+  "name": "simplemailerbyrb",
+  "version": "1.0.1",
+  "description": "a simple node js module to send email using nodemailer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Raghav Birla",
+  "license": "ISC"
+}
